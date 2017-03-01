@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D0FD02750596490FEF308508A20D6BD397CDF5CF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "D0FD02750596490FEF308508A20D6BD397CDF5CF" : 9223372036854775807,
+    "B67D9E5EC838E70EBC45F7DEF3EDAA87E5481B1B" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "1B185382-03F7-4468-91F8-AE295EAC31C8",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "D0FD02750596490FEF308508A20D6BD397CDF5CF" : "FirstPageAnimation\/",
+    "B67D9E5EC838E70EBC45F7DEF3EDAA87E5481B1B" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "菁优网首页动画",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "菁优网首页动画.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShenZhenChenlin\/myDaily.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B67D9E5EC838E70EBC45F7DEF3EDAA87E5481B1B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ShenZhenChenlin\/FirstPageAnimation.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D0FD02750596490FEF308508A20D6BD397CDF5CF"
+    }
+  ]
+}
